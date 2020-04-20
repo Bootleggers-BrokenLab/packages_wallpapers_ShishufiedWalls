@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The LineageOS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <array name="partner_wallpapers" translatable="false">
+        <item>btlg_v05</item>
+        <item>btlg_v10</item>
+        <item>btlg_v22</item>
+        <item>btlg_v23</item>
+        <item>btlg_v30</item>
+        <item>btlg_v35</item>
+        <item>btlg_v40</item>
+        <item>btlg_v41</item>
+        <item>btlg_v42</item>
+        <item>btlg_v43</item>
+        <item>btlg_v47</item>
+        <item>btlg_v50</item>
+        <item>btlg_aesthetic</item>
+        <item>btlg_beach</item>
+        <item>btlg_circles</item>
+        <item>btlg_dynamic</item>
+        <item>btlg_greenpattern</item>
+        <item>btlg_leaf</item>
+        <item>btlg_lightning</item>
+        <item>btlg_lines</item>
+        <item>btlg_monoink</item>
+        <item>btlg_oronos_virgilio</item>
+        <item>btlg_palmtree</item>
+        <item>btlg_rgbmess</item>
+        <item>btlg_samurai_vh</item>
+        <item>btlg_squareneon</item>
+        <item>btlg_sunsetino</item>
+        <item>shishu_origins</item>
+    </array>
+</resources>
