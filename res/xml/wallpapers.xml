@@ -288,6 +288,36 @@
             title="Unreleased hope (5.0 Release Wallpaper)"
             subtitle1="ElDainosor" />
 
+        <static-wallpaper
+            id="btlg_ripped"
+            src="@drawable/btlg_v51"
+            title="Ripped Paper (5.1 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_flight"
+            src="@drawable/btlg_v52"
+            title="If I could fly (5.2 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_nocolors"
+            src="@drawable/btlg_v57"
+            title="Missing colors (5.7 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_holographic"
+            src="@drawable/btlg_v69"
+            title="Holographic (6.9 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_ourple"
+            src="@drawable/btlg_v70"
+            title="Purple like lean (7.0 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
      </category>
 
      <category id="cat_btlg_themes" title="@string/category_shishufied_walls" featured="btlg_amalgamation">
