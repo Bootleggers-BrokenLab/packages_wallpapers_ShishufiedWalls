@@ -17,200 +17,233 @@
         <static-wallpaper
             id="btlg_aesthetic"
             src="@drawable/btlg_aesthetic"
-            title="Aesthetic"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_aesthetic"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_beach"
             src="@drawable/btlg_beach"
-            title="Beach"
-            subtitle1="gabriel" />
+            title="@string/wallpaper_title_btlg_beach"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_gabriel" />
 
         <static-wallpaper
             id="btlg_circles"
             src="@drawable/btlg_circles"
-            title="Circles"
-            subtitle1="s a y m o n" />
+            title="@string/wallpaper_title_btlg_circles"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_saymon" />
 
         <static-wallpaper
             id="btlg_dynamic"
             src="@drawable/btlg_dynamic"
-            title="Dynamic"
-            subtitle1="MΔTЭO" />
+            title="@string/wallpaper_title_btlg_dynamic"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_mateo" />
 
         <static-wallpaper
             id="btlg_gradient_dynamic"
             src="@drawable/btlg_v69_alt"
-            title="Gradient Dynamic"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_gradient_dynamic"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_greenpattern"
             src="@drawable/btlg_greenpattern"
-            title="Green Pattern"
-            subtitle1="𝙉𝙀𝙍𝙊" />
+            title="@string/wallpaper_title_btlg_greenpattern"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_nero" />
 
         <static-wallpaper
             id="btlg_leaf"
             src="@drawable/btlg_leaf"
-            title="Leaf"
-            subtitle1="s a y m o n" />
+            title="@string/wallpaper_title_btlg_leaf"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_saymon" />
 
         <static-wallpaper
             id="btlg_lightning"
             src="@drawable/btlg_lightning"
-            title="Lightning"
-            subtitle1="Nathanael" />
+            title="@string/wallpaper_title_btlg_lightning"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_nathanael" />
 
         <static-wallpaper
             id="btlg_lines"
             src="@drawable/btlg_lines"
-            title="Lines"
-            subtitle1="Assu" />
+            title="@string/wallpaper_title_btlg_lines"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_assu" />
 
         <static-wallpaper
             id="btlg_monoink"
             src="@drawable/btlg_monoink"
-            title="Mono Ink"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_monoink"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_palmtree"
             src="@drawable/btlg_palmtree"
-            title="Palmtree"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_palmtree"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_rgbmess"
             src="@drawable/btlg_rgbmess"
-            title="RGB Mess"
-            subtitle1="Melvin" />
+            title="@string/wallpaper_title_btlg_rgbmess"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_melvin" />
 
         <static-wallpaper
             id="btlg_samurai_vh"
             src="@drawable/btlg_samurai_vh"
-            title="Samurai"
-            subtitle1="vh, s a y m o n" />
+            title="@string/wallpaper_title_btlg_samurai_vh"
+            subtitle1="@string/author_main_multiple"
+            subtitle2="@string/author_community_duo_vh_saymon" />
 
         <static-wallpaper
             id="btlg_squareneon"
             src="@drawable/btlg_squareneon"
-            title="Square Neon"
-            subtitle1="h e n r i q u e" />
+            title="@string/wallpaper_title_btlg_squareneon"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_henrique_a" />
 
         <static-wallpaper
             id="btlg_sunsetino"
             src="@drawable/btlg_sunsetino"
-            title="Sunset Lane"
-            subtitle1="s a y m o n" />
+            title="@string/wallpaper_title_btlg_sunsetino"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_saymon" />
 
         <static-wallpaper
             id="btlg_streetlight"
             src="@drawable/btlg_streetlights"
-            title="Streetlights"
-            subtitle1="fabian" />
+            title="@string/wallpaper_title_btlg_streetlight"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_fabian" />
 
         <static-wallpaper
             id="btlg_longnight"
             src="@drawable/btlg_longnight"
-            title="Long Night"
-            subtitle1="Nisath" />
+            title="@string/wallpaper_title_btlg_longnight"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_nisath" />
 
         <static-wallpaper
             id="btlg_night_drive_burning"
             src="@drawable/btlg_night_drive_burning"
-            title="Burning Night Drive"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_night_drive_burning"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_night_drive_something"
             src="@drawable/btlg_night_drive_something"
-            title="Something... "
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_night_drive_something"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_monoroad"
             src="@drawable/btlg_monoroad"
-            title="she loves monochrome"
-            subtitle1="henrique" />
+            title="@string/wallpaper_title_btlg_monoroad"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_henrique_b" />
 
         <static-wallpaper
             id="btlg_beautynature"
             src="@drawable/btlg_beautynature"
-            title="Beauty of Nature"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_beautynature"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_wireframe_waves"
             src="@drawable/btlg_wireframe_waves"
-            title="Wireframe Wave"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_wireframe_waves"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_paintbrush"
             src="@drawable/btlg_paintbrush"
-            title="Paintbrush"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_paintbrush"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_neo_status"
             src="@drawable/btlg_neo_status"
-            title="Neo Status"
-            subtitle1="Limxdy" />
+            title="@string/wallpaper_title_btlg_neo_status"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_limxdy" />
 
         <static-wallpaper
             id="btlg_darkbeauty"
             src="@drawable/btlg_darkbeauty"
-            title="Darkest Beauty"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_darkbeauty"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_sphered_emotions"
             src="@drawable/btlg_sphered_emotions"
-            title="Sphered Emotions"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_sphered_emotions"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_sunset_view"
             src="@drawable/btlg_sunset_view"
-            title="Sunset view from a window"
-            subtitle1="Nisath" />
+            title="@string/wallpaper_title_btlg_sunset_view"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_nisath" />
 
         <static-wallpaper
             id="btlg_paperwashed"
             src="@drawable/btlg_paperwashed"
-            title="Paperwashed"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_paperwashed"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_minimalwidget"
             src="@drawable/btlg_minimalwidget"
-            title="Minimal Widget"
-            subtitle1="Limxdy" />
+            title="@string/wallpaper_title_btlg_minimalwidget"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_limxdy" />
 
         <static-wallpaper
             id="btlg_velvet"
             src="@drawable/btlg_velvet"
-            title="Velvet"
-            subtitle1="Nisath" />
+            title="@string/wallpaper_title_btlg_velvet"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_nisath" />
 
         <static-wallpaper
             id="btlg_holotronic"
             src="@drawable/btlg_holotronic"
-            title="Holotronic"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_holotronic"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_night_drive_sunset"
             src="@drawable/btlg_night_drive_sunset"
-            title="Sunset before the night"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_night_drive_sunset"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_evening_palmtrees"
             src="@drawable/btlg_evening_palmtrees"
-            title="Evening sky"
-            subtitle1="Limxdy" />
+            title="@string/wallpaper_title_btlg_evening_palmtrees"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_limxdy" />
 
      </category>
 
@@ -219,104 +252,121 @@
         <static-wallpaper
             id="btlg_proto"
             src="@drawable/btlg_v05"
-            title="Bootleggers 0.5 Release Wallpaper"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_proto"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_dawn"
             src="@drawable/btlg_v10"
-            title="Dawn (1.0 Release Wallpaper)"
-            subtitle1="fxckingdeathwish" />
+            title="@string/wallpaper_title_btlg_dawn"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_misc_fxckingdeathwish" />
 
         <static-wallpaper
             id="btlg_wots"
             src="@drawable/btlg_v22"
-            title="Waiting on the sunset (ElDainosor edit) (Bootleggers v2.2 Wallpaper)"
-            subtitle1="fxckingdeathwish" />
+            title="@string/wallpaper_title_btlg_wots"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_misc_fxckingdeathwish" />
 
         <static-wallpaper
             id="btlg_movsun"
             src="@drawable/btlg_v23"
-            title="Moving Sunsets (Bootleggers v2.3 Wallpaper)"
-            subtitle1="fxckingdeathwish" />
+            title="@string/wallpaper_title_btlg_movsun"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_misc_fxckingdeathwish" />
 
         <static-wallpaper
             id="btlg_island"
             src="@drawable/btlg_v30"
-            title="Behind the island (3.0 Release Wallpaper)"
-            subtitle1="@string/author_not_found" />
+            title="@string/wallpaper_title_btlg_island"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_not_found" />
 
         <static-wallpaper
             id="btlg_natgrad"
             src="@drawable/btlg_v35"
-            title="Natural Gradient (3.5 Release Wallpaper)"
-            subtitle1="@string/author_not_found" />
+            title="@string/wallpaper_title_btlg_natgrad"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_not_found" />
 
         <static-wallpaper
             id="btlg_fullcombo"
             src="@drawable/btlg_v40"
-            title="Fury City (4.0 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_fullcombo"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_csun"
             src="@drawable/btlg_v41"
-            title="cloudy sunset (4.1 Release Wallpaper)"
-            subtitle1="fxckingdeathwish" />
+            title="@string/wallpaper_title_btlg_csun"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_misc_fxckingdeathwish" />
 
         <static-wallpaper
             id="btlg_smth"
             src="@drawable/btlg_v42"
-            title="something (4.2 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_smth"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_sunrisebanana"
             src="@drawable/btlg_v43"
-            title="a sunrise with banana thoughts (4.3 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_sunrisebanana"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_unfunny"
             src="@drawable/btlg_v47"
-            title="Hahaha funny volte joke (4.7 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_unfunny"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_unhope"
             src="@drawable/btlg_v50"
-            title="Unreleased hope (5.0 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_unhope"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_ripped"
             src="@drawable/btlg_v51"
-            title="Ripped Paper (5.1 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_ripped"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_flight"
             src="@drawable/btlg_v52"
-            title="If I could fly (5.2 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_flight"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_nocolors"
             src="@drawable/btlg_v57"
-            title="Missing colors (5.7 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_nocolors"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_holographic"
             src="@drawable/btlg_v69"
-            title="Holographic (6.9 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_holographic"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_ourple"
             src="@drawable/btlg_v70"
-            title="Purple like lean (7.0 Release Wallpaper)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_ourple"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
      </category>
 
@@ -325,50 +375,58 @@
         <static-wallpaper
             id="btlg_dreams"
             src="@drawable/btlg_theme_dreams"
-            title="Shishu Dreams Theme"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_dreams"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_illusions"
             src="@drawable/btlg_theme_illusions"
-            title="Shishu Illusions Theme"
-            subtitle1="𝙉𝙀𝙍𝙊" />
+            title="@string/wallpaper_title_btlg_illusions"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_nero" />
 
         <static-wallpaper
             id="btlg_nights"
             src="@drawable/btlg_theme_nights"
-            title="Shishu Nights Theme"
-            subtitle1="Cortezz" />
+            title="@string/wallpaper_title_btlg_nights"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_cortezz" />
 
         <static-wallpaper
             id="btlg_amalgamation"
             src="@drawable/btlg_theme_amalgamation"
-            title="Shishu Amalgamation Theme"
-            subtitle1="Snowan" />
+            title="@string/wallpaper_title_btlg_amalgamation"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_community_snowan" />
 
         <static-wallpaper
             id="btlg_solarized"
             src="@drawable/btlg_theme_solarized"
-            title="Solarized Theme"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_solarized"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_aosp"
             src="@drawable/btlg_theme_aosp"
-            title="AOSP Theme"
-            subtitle1="Google, ElDainosor" />
+            title="@string/wallpaper_title_btlg_aosp"
+            subtitle1="@string/author_main_multiple"
+            subtitle2="@string/author_community_duo_google_eldainosor" />
 
         <static-wallpaper
             id="btlg_pacleggers"
             src="@drawable/btlg_theme_pacleggers"
-            title="PACLeggers Aprils Fools"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_pacleggers"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_pissel"
             src="@drawable/btlg_theme_pissel"
-            title="Pissel Theme"
-            subtitle1="Google, ElDainosor" />
+            title="@string/wallpaper_title_btlg_pissel"
+            subtitle1="@string/author_main_multiple"
+            subtitle2="@string/author_community_duo_google_eldainosor" />
 
      </category>
 
@@ -377,236 +435,275 @@
         <static-wallpaper
             id="dainocore_wakeybuild"
             src="@drawable/dainocore_urban_wakeybuilding"
-            title="The morning building"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_wakeybuild"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_heartwalk"
             src="@drawable/dainocore_urban_heartwalk"
-            title="Feelings Str."
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_heartwalk"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_zarate"
             src="@drawable/dainocore_urban_zarate"
-            title="Zárate"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_zarate"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_walkingdown"
             src="@drawable/dainocore_urban_walkingdown"
-            title="A cold walk down"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_walkingdown"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_munrocity"
             src="@drawable/dainocore_urban_munrocity"
-            title="Munro City"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_munrocity"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_iwannagohome"
             src="@drawable/dainocore_urban_iwannagohome"
-            title="this happens when"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_iwannagohome"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_torreader"
             src="@drawable/dainocore_urban_torreader"
-            title="Torre Ader"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_torreader"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_lonelytrees"
             src="@drawable/dainocore_urban_lonelytrees"
-            title="Trees and emptiness"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_lonelytrees"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_reallylost"
             src="@drawable/dainocore_urban_reallylost"
-            title="i think i went too far and im lost"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_reallylost"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_lostflight"
             src="@drawable/dainocore_urban_lostflight"
-            title="Losing the flight"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_lostflight"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_fastroute"
             src="@drawable/dainocore_urban_fastroute"
-            title="Hora pico"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_fastroute"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_brightlights"
             src="@drawable/dainocore_urban_brightlights"
-            title="Bright Lights and Fashion"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_brightlights"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_blurryview"
             src="@drawable/dainocore_urban_blurryview"
-            title="Reflection in a puddle"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_blurryview"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_endoftheday"
             src="@drawable/dainocore_urban_endoftheday"
-            title="Al final del día..."
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_endoftheday"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_nightdrive_alt"
             src="@drawable/dainocore_urban_nightdrive_alt"
-            title="Night Drive"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_nightdrive_alt"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_rosarionight"
             src="@drawable/dainocore_urban_rosarionight"
-            title="Summer Nights in Rosario"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_rosarionight"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_cotonights"
             src="@drawable/dainocore_urban_cotonights"
-            title="Horas extras"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_cotonights"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_closedonsundays"
             src="@drawable/dainocore_urban_closedonsundays"
-            title="Closed on Sundays"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_closedonsundays"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_rainyview"
             src="@drawable/dainocore_urban_rainyview"
-            title="Rainy view"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_rainyview"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_ballesterville"
             src="@drawable/dainocore_urban_ballesterville"
-            title="Ballesterville"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_ballesterville"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_darkview"
             src="@drawable/dainocore_urban_darkview"
-            title="Darker times"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_darkview"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_torreparque"
             src="@drawable/dainocore_urban_torreparque"
-            title="Torre Espacial"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_torreparque"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_morninglights"
             src="@drawable/dainocore_urban_morninglights"
-            title="Morning Streetlights"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_morninglights"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_galeriafab"
             src="@drawable/dainocore_urban_galeriafab"
-            title="Galeria de Fabricantes"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_galeriafab"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_bigretirement"
             src="@drawable/dainocore_urban_bigretirement"
-            title="Retiro, Buenos Aires"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_bigretirement"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_touristsunday"
             src="@drawable/dainocore_urban_touristsunday"
-            title="... or fade into the unknown"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_touristsunday"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_barquito"
             src="@drawable/dainocore_urban_barquito"
-            title="Paper boat"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_barquito"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_rosariobutcute"
             src="@drawable/dainocore_urban_rosariobutcute"
-            title="Parque rosarino"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_rosariobutcute"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_jardinjaponesview"
             src="@drawable/dainocore_urban_jardinjaponesview"
-            title="Jardín Japonés"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_jardinjaponesview"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_hopefulbuilding"
             src="@drawable/dainocore_urban_hopefulbuilding"
-            title="In the middle of the road"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_hopefulbuilding"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_silliestgradient"
             src="@drawable/dainocore_urban_silliestgradient"
-            title="Énfasis"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_silliestgradient"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_stopthesunset"
             src="@drawable/dainocore_urban_stopthesunset"
-            title="stop the watch"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_stopthesunset"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_oldchurch"
             src="@drawable/dainocore_urban_oldchurch"
-            title="Some old building"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_oldchurch"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_retirement"
             src="@drawable/dainocore_urban_retirement"
-            title="The way back home"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_retirement"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_graffitiart"
             src="@drawable/dainocore_urban_graffitiart"
-            title="UBArte"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_graffitiart"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_tiredwalking"
             src="@drawable/dainocore_urban_tiredwalking"
-            title="Vacant Mind"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_tiredwalking"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_munrohotel"
             src="@drawable/dainocore_urban_munrohotel"
-            title="Hotel"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_munrohotel"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_skatepark"
             src="@drawable/dainocore_urban_skatepark"
-            title="Skatepark"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_skatepark"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_madryn"
             src="@drawable/dainocore_urban_madryn"
-            title="Puerto Madryn"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_madryn"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
      </category>
 
@@ -615,146 +712,170 @@
         <static-wallpaper
             id="dainocore_reflectivesunrise"
             src="@drawable/dainocore_nature_reflectivesunrise"
-            title="Reflective sunrise"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_reflectivesunrise"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_unreachablebridge"
             src="@drawable/dainocore_nature_unreachablebridge"
-            title="A little bridge"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_unreachablebridge"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_penguins"
             src="@drawable/dainocore_nature_penguins"
-            title="Penguins"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_penguins"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_almostsunrise"
             src="@drawable/dainocore_nature_almostsunrise"
-            title="Here comes the sun..."
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_almostsunrise"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_patagonianheights"
             src="@drawable/dainocore_nature_patagonianheights"
-            title="Patagonian Bliss"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_patagonianheights"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_sunset01"
             src="@drawable/dainocore_nature_sunset01"
-            title="sunset01"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_sunset01"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_coldpeek"
             src="@drawable/dainocore_nature_coldpeek"
-            title="Dreamy petals"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_coldpeek"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_realpatagonia"
             src="@drawable/dainocore_nature_realpatagonia"
-            title="Patagonia"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_realpatagonia"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_flowers"
             src="@drawable/dainocore_nature_flowers"
-            title="Flores en Chubut"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_flowers"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_waves"
             src="@drawable/dainocore_nature_waves"
-            title="Crystalline waves"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_waves"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_cloudsview"
             src="@drawable/dainocore_nature_cloudsview"
-            title="Cotton clouds"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_cloudsview"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_domingopadre"
             src="@drawable/dainocore_nature_domingopadre"
-            title="Family sundays"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_domingopadre"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_tombo"
             src="@drawable/dainocore_nature_tombo"
-            title="Punta Tombo"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_tombo"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_jardinjapones"
             src="@drawable/dainocore_nature_jardinjapones"
-            title="Torii"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_jardinjapones"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_raindrops"
             src="@drawable/dainocore_nature_raindrops"
-            title="Drizzle"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_raindrops"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_rosedal"
             src="@drawable/dainocore_nature_rosedal"
-            title="Rosedal"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_rosedal"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_moreflowers"
             src="@drawable/dainocore_nature_moreflowers"
-            title="More flowers..."
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_moreflowers"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_springseason"
             src="@drawable/dainocore_nature_springseason"
-            title="Primavera"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_springseason"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_hopefulflower_alt"
             src="@drawable/dainocore_nature_hopefulflower_alt"
-            title="Sakura"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_hopefulflower_alt"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_fakeplants"
             src="@drawable/dainocore_nature_fakeplants"
-            title="Plastic nature"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_fakeplants"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_weddingflower_alt"
             src="@drawable/dainocore_nature_weddingflower_alt"
-            title="The crown"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_weddingflower_alt"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_coastview"
             src="@drawable/dainocore_nature_coastview"
-            title="Seashore"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_coastview"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_pebbles"
             src="@drawable/dainocore_nature_pebbles"
-            title="P E B B L S"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_pebbles"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_darkestmoment"
             src="@drawable/dainocore_nature_darkestmoment"
-            title="Darkest moments"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_darkestmoment"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
      </category>
 
@@ -763,92 +884,107 @@
         <static-wallpaper
             id="dainocore_nohayfila"
             src="@drawable/dainocore_misc_nohayfila"
-            title="No queue"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_nohayfila"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_sillytexture"
             src="@drawable/dainocore_misc_sillytexture"
-            title="Hidden Waves"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_sillytexture"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_lumitonlore"
             src="@drawable/dainocore_misc_lumitonlore"
-            title="Filmmaking"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_lumitonlore"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_sandstarfield"
             src="@drawable/dainocore_misc_sandstarfield"
-            title="sandstarfield"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_sandstarfield"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_limelight"
             src="@drawable/dainocore_misc_limelight"
-            title="The universal dream"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_limelight"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_delfino"
             src="@drawable/dainocore_misc_delfino"
-            title="delfino."
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_delfino"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_abandono"
             src="@drawable/dainocore_misc_abandono"
-            title="Skywheel"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_abandono"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_ventanasalt"
             src="@drawable/dainocore_misc_ventanasalt"
-            title="Ventanas al cielo"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_ventanasalt"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_oldcam"
             src="@drawable/dainocore_misc_oldcam"
-            title="Old camera"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_oldcam"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_justawall"
             src="@drawable/dainocore_misc_justawall"
-            title="Urbano"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_justawall"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_argentinosaurus"
             src="@drawable/dainocore_misc_argentinosaurus"
-            title="Argentinosaurus"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_argentinosaurus"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_oronio"
             src="@drawable/dainocore_misc_oronio"
             title="Virgilio"
-            subtitle1="ElDainosor" />
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_lostmedia"
             src="@drawable/dainocore_misc_lostmedia"
-            title="Lost media"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_lostmedia"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_noidea"
             src="@drawable/dainocore_misc_noidea"
-            title="out of ideas"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_noidea"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_pushingkeys"
             src="@drawable/dainocore_misc_pushingkeys"
-            title="Pushing keys"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_pushingkeys"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
      </category>
 
@@ -857,152 +993,177 @@
         <static-wallpaper
             id="btlg_shishuog"
             src="@drawable/shishu_origins"
-            title="Shishu Origins"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_shishuog"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_oronio"
             src="@drawable/btlg_oronos_virgilio"
-            title="Neo Virgilio (from Oroño)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_oronio"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_lostinthestrees"
             src="@drawable/dainocore_urban_lostinthestreets"
-            title="Lost Metric"
-            subtitle1="ElDainosor" />
+            title="@string/dainocore_lostinthestrees"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_vibrantwaves"
             src="@drawable/dainocore_nature_vibrantwaves"
-            title="Crystalline waves (evening)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_vibrantwaves"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_sentuflowers"
             src="@drawable/dainocore_nature_sentuflowers"
-            title="sent u flowers"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_sentuflowers"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_oldmovies"
             src="@drawable/dainocore_misc_oldmovies"
-            title="Old movie posting"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_oldmovies"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_waiting4thebus"
             src="@drawable/dainocore_urban_waiting4thebus"
-            title="waiting 4 the bus"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_waiting4thebus"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_lostinpatagonia"
             src="@drawable/dainocore_nature_lostinpatagonia"
-            title="Lost in Pastagonia"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_lostinpatagonia"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_lumiton"
             src="@drawable/dainocore_misc_lumiton"
-            title="More Lumiton"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_lumiton"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_weddingflower"
             src="@drawable/dainocore_nature_weddingflower"
-            title="Corona de flores"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_weddingflower"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_nightdrive"
             src="@drawable/dainocore_urban_nightdrive"
-            title="Night Drive (blurred)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_nightdrive"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
-            id="dainocore_fastroute"
+            id="dainocore_fastroute_alt"
             src="@drawable/dainocore_urban_fastroute_alt"
-            title="Hora pico (alt)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_fastroute_alt"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_crustyrainbow"
             src="@drawable/dainocore_urban_crustyrainbow"
-            title="never going to edit photos like this again"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_crustyrainbow"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_coldflowers"
             src="@drawable/dainocore_nature_coldflowers"
-            title="flores frias"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_coldflowers"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_hopefulflower"
             src="@drawable/dainocore_nature_hopefulflower"
-            title="Sakura (alt)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_hopefulflower"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_notaoemwallpaper"
             src="@drawable/dainocore_nature_notaoemwallpaper"
-            title="AI Generated OEM Default Wallpaper (not really)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_notaoemwallpaper"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_nomorerecording"
             src="@drawable/dainocore_urban_nomorerecording"
-            title="Not recording"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_nomorerecording"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_zaratepostal"
             src="@drawable/dainocore_urban_zaratepostal"
-            title="Zarateposting"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_zaratepostal"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_greenlight"
             src="@drawable/dainocore_urban_greenlight"
-            title="Morning green light"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_greenlight"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_suckyflowers"
             src="@drawable/dainocore_urban_suckyflowers"
-            title="sucky sad flowers"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_suckyflowers"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_streetlight"
             src="@drawable/dainocore_urban_streetlight"
-            title="semaforito"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_streetlight"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_ventana"
             src="@drawable/dainocore_misc_ventana"
-            title="Just a window bro"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_ventana"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_realsunrise"
             src="@drawable/dainocore_nature_realsunrise"
-            title="sunrise"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_realsunrise"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="dainocore_torreparque_alt"
             src="@drawable/dainocore_urban_torreparque_alt"
-            title="Torre Espacial (alt)"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_dainocore_torreparque_alt"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
         <static-wallpaper
             id="btlg_tirimbino_amoled"
             src="@drawable/btlg_alt_tirimbino"
-            title="AMOLED Tirimbino"
-            subtitle1="ElDainosor" />
+            title="@string/wallpaper_title_btlg_tirimbino_amoled"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_eldainosor" />
 
      </category>
 

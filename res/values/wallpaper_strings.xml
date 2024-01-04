@@ -21,7 +21,206 @@
       <string name="category_dainocore_nature_walls">A piece of nature</string>
       <string name="category_dainocore_misc_walls">Interesting things</string>
 
-      <!-- Author? -->
+      <!-- Wallpaper titles -->
+      <!--                  -->
+      <!-- CATEGORY: Community Wallpapers -->
+      <string name="wallpaper_title_btlg_aesthetic" translatable="false">Aesthetic</string>
+      <string name="wallpaper_title_btlg_beach" translatable="false">Beach</string>
+      <string name="wallpaper_title_btlg_circles" translatable="false">Circles</string>
+      <string name="wallpaper_title_btlg_dynamic" translatable="false">Dynamic</string>
+      <string name="wallpaper_title_btlg_gradient_dynamic" translatable="false">Gradient Dynamic</string>
+      <string name="wallpaper_title_btlg_greenpattern" translatable="false">Green Pattern</string>
+      <string name="wallpaper_title_btlg_leaf" translatable="false">Leaf</string>
+      <string name="wallpaper_title_btlg_lightning" translatable="false">Lightning</string>
+      <string name="wallpaper_title_btlg_lines" translatable="false">Lines</string>
+      <string name="wallpaper_title_btlg_monoink" translatable="false">Mono Ink</string>
+      <string name="wallpaper_title_btlg_palmtree" translatable="false">Palmtree</string>
+      <string name="wallpaper_title_btlg_rgbmess" translatable="false">RGB Mess</string>
+      <string name="wallpaper_title_btlg_samurai_vh" translatable="false">Samurai</string>
+      <string name="wallpaper_title_btlg_squareneon" translatable="false">Square Neon</string>
+      <string name="wallpaper_title_btlg_sunsetino" translatable="false">Sunset Lane</string>
+      <string name="wallpaper_title_btlg_streetlight" translatable="false">Streetlights</string>
+      <string name="wallpaper_title_btlg_longnight" translatable="false">Long Night</string>
+      <string name="wallpaper_title_btlg_night_drive_burning" translatable="false">Burning Night Drive</string>
+      <string name="wallpaper_title_btlg_night_drive_something" translatable="false">Something...</string>
+      <string name="wallpaper_title_btlg_monoroad" translatable="false">she loves monochrome</string>
+      <string name="wallpaper_title_btlg_beautynature" translatable="false">Beauty of Nature</string>
+      <string name="wallpaper_title_btlg_wireframe_waves" translatable="false">Wireframe Wave</string>
+      <string name="wallpaper_title_btlg_paintbrush" translatable="false">Paintbrush</string>
+      <string name="wallpaper_title_btlg_neo_status" translatable="false">Neo Status</string>
+      <string name="wallpaper_title_btlg_darkbeauty" translatable="false">Darkest Beauty</string>
+      <string name="wallpaper_title_btlg_sphered_emotions" translatable="false">Sphered Emotions</string>
+      <string name="wallpaper_title_btlg_sunset_view" translatable="false">Sunset view from a window</string>
+      <string name="wallpaper_title_btlg_paperwashed" translatable="false">Paperwashed</string>
+      <string name="wallpaper_title_btlg_minimalwidget" translatable="false">Minimal Widget</string>
+      <string name="wallpaper_title_btlg_velvet" translatable="false">Velvet</string>
+      <string name="wallpaper_title_btlg_holotronic" translatable="false">Holotronic</string>
+      <string name="wallpaper_title_btlg_night_drive_sunset" translatable="false">Sunset before the night</string>
+      <string name="wallpaper_title_btlg_evening_palmtrees" translatable="false">Evening sky</string>
+
+      <!-- CATEGORY: Community Wallpapers -->
+      <string name="wallpaper_title_btlg_proto" translatable="false">Bootleggers 0.5 Release Wallpaper</string>
+      <string name="wallpaper_title_btlg_dawn" translatable="false">Dawn (1.0 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_wots" translatable="false">Waiting on the sunset (ElDainosor edit) (Bootleggers v2.2 Wallpaper)</string>
+      <string name="wallpaper_title_btlg_movsun" translatable="false">Moving Sunsets (Bootleggers v2.3 Wallpaper)</string>
+      <string name="wallpaper_title_btlg_island" translatable="false">Behind the island (3.0 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_natgrad" translatable="false">Natural Gradient (3.5 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_fullcombo" translatable="false">Fury City (4.0 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_csun" translatable="false">cloudy sunset (4.1 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_smth" translatable="false">something (4.2 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_sunrisebanana" translatable="false">a sunrise with banana thoughts (4.3 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_unfunny" translatable="false">Hahaha funny volte joke (4.7 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_unhope" translatable="false">Unreleased hope (5.0 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_ripped" translatable="false">Ripped Paper (5.1 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_flight" translatable="false">If I could fly (5.2 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_nocolors" translatable="false">Missing colors (5.7 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_holographic" translatable="false">Holographic (6.9 Release Wallpaper)</string>
+      <string name="wallpaper_title_btlg_ourple" translatable="false">Purple like lean (7.0 Release Wallpaper)</string>
+
+      <!-- CATEGORY: Community Wallpapers -->
+      <string name="wallpaper_title_btlg_dreams" translatable="false">Shishu Dreams Theme</string>
+      <string name="wallpaper_title_btlg_illusions" translatable="false">Shishu Illusions Theme</string>
+      <string name="wallpaper_title_btlg_nights" translatable="false">Shishu Nights Theme</string>
+      <string name="wallpaper_title_btlg_amalgamation" translatable="false">Shishu Amalgamation Theme</string>
+      <string name="wallpaper_title_btlg_solarized" translatable="false">Solarized Theme</string>
+      <string name="wallpaper_title_btlg_aosp" translatable="false">AOSP Theme</string>
+      <string name="wallpaper_title_btlg_pacleggers" translatable="false">PACLeggers Aprils Fools</string>
+      <string name="wallpaper_title_btlg_pissel" translatable="false">Pissel Theme</string>
+
+      <!-- CATEGORY: Community Wallpapers -->
+      <string name="wallpaper_title_dainocore_wakeybuild" translatable="false">The morning building</string>
+      <string name="wallpaper_title_dainocore_heartwalk" translatable="false">Feelings Str.</string>
+      <string name="wallpaper_title_dainocore_zarate" translatable="false">Zárate</string>
+      <string name="wallpaper_title_dainocore_walkingdown" translatable="false">A cold walk down</string>
+      <string name="wallpaper_title_dainocore_munrocity" translatable="false">Munro City</string>
+      <string name="wallpaper_title_dainocore_iwannagohome" translatable="false">this happens when</string>
+      <string name="wallpaper_title_dainocore_torreader" translatable="false">Torre Ader</string>
+      <string name="wallpaper_title_dainocore_lonelytrees" translatable="false">Trees and emptiness</string>
+      <string name="wallpaper_title_dainocore_reallylost" translatable="false">i think i went too far and im lost</string>
+      <string name="wallpaper_title_dainocore_lostflight" translatable="false">Losing the flight</string>
+      <string name="wallpaper_title_dainocore_fastroute" translatable="false">Hora pico</string>
+      <string name="wallpaper_title_dainocore_brightlights" translatable="false">Bright Lights and Fashion</string>
+      <string name="wallpaper_title_dainocore_blurryview" translatable="false">Reflection in a puddle</string>
+      <string name="wallpaper_title_dainocore_endoftheday" translatable="false">Al final del día...</string>
+      <string name="wallpaper_title_dainocore_nightdrive_alt" translatable="false">Night Drive</string>
+      <string name="wallpaper_title_dainocore_rosarionight" translatable="false">Summer Nights in Rosario</string>
+      <string name="wallpaper_title_dainocore_cotonights" translatable="false">Horas extras</string>
+      <string name="wallpaper_title_dainocore_closedonsundays" translatable="false">Closed on Sundays</string>
+      <string name="wallpaper_title_dainocore_rainyview" translatable="false">Rainy view</string>
+      <string name="wallpaper_title_dainocore_ballesterville" translatable="false">Ballesterville</string>
+      <string name="wallpaper_title_dainocore_darkview" translatable="false">Darker times</string>
+      <string name="wallpaper_title_dainocore_torreparque" translatable="false">Torre Espacial</string>
+      <string name="wallpaper_title_dainocore_morninglights" translatable="false">Morning Streetlights</string>
+      <string name="wallpaper_title_dainocore_galeriafab" translatable="false">Galeria de Fabricantes</string>
+      <string name="wallpaper_title_dainocore_bigretirement" translatable="false">Retiro, Buenos Aires</string>
+      <string name="wallpaper_title_dainocore_touristsunday" translatable="false">... or fade into the unknown</string>
+      <string name="wallpaper_title_dainocore_barquito" translatable="false">Paper boat</string>
+      <string name="wallpaper_title_dainocore_rosariobutcute" translatable="false">Parque rosarino</string>
+      <string name="wallpaper_title_dainocore_jardinjaponesview" translatable="false">Jardín Japonés</string>
+      <string name="wallpaper_title_dainocore_hopefulbuilding" translatable="false">In the middle of the road</string>
+      <string name="wallpaper_title_dainocore_silliestgradient" translatable="false">Énfasis</string>
+      <string name="wallpaper_title_dainocore_stopthesunset" translatable="false">stop the watch</string>
+      <string name="wallpaper_title_dainocore_oldchurch" translatable="false">Some old building</string>
+      <string name="wallpaper_title_dainocore_retirement" translatable="false">The way back home</string>
+      <string name="wallpaper_title_dainocore_graffitiart" translatable="false">UBArte</string>
+      <string name="wallpaper_title_dainocore_tiredwalking" translatable="false">Vacant Mind</string>
+      <string name="wallpaper_title_dainocore_munrohotel" translatable="false">Hotel</string>
+      <string name="wallpaper_title_dainocore_skatepark" translatable="false">Skatepark</string>
+      <string name="wallpaper_title_dainocore_madryn" translatable="false">Puerto Madryn</string>
+
+      <!-- CATEGORY: Community Wallpapers -->
+      <string name="wallpaper_title_dainocore_reflectivesunrise" translatable="false">Reflective sunrise</string>
+      <string name="wallpaper_title_dainocore_unreachablebridge" translatable="false">A little bridge</string>
+      <string name="wallpaper_title_dainocore_penguins" translatable="false">Penguins</string>
+      <string name="wallpaper_title_dainocore_almostsunrise" translatable="false">Here comes the sun...</string>
+      <string name="wallpaper_title_dainocore_patagonianheights" translatable="false">Patagonian Bliss</string>
+      <string name="wallpaper_title_dainocore_sunset01" translatable="false">sunset01</string>
+      <string name="wallpaper_title_dainocore_coldpeek" translatable="false">Dreamy petals</string>
+      <string name="wallpaper_title_dainocore_realpatagonia" translatable="false">Patagonia</string>
+      <string name="wallpaper_title_dainocore_flowers" translatable="false">Flores en Chubut</string>
+      <string name="wallpaper_title_dainocore_waves" translatable="false">Crystalline waves</string>
+      <string name="wallpaper_title_dainocore_cloudsview" translatable="false">Cotton clouds</string>
+      <string name="wallpaper_title_dainocore_domingopadre" translatable="false">Family sundays</string>
+      <string name="wallpaper_title_dainocore_tombo" translatable="false">Punta Tombo</string>
+      <string name="wallpaper_title_dainocore_jardinjapones" translatable="false">Torii</string>
+      <string name="wallpaper_title_dainocore_raindrops" translatable="false">Drizzle</string>
+      <string name="wallpaper_title_dainocore_rosedal" translatable="false">Rosedal</string>
+      <string name="wallpaper_title_dainocore_moreflowers" translatable="false">More flowers...</string>
+      <string name="wallpaper_title_dainocore_springseason" translatable="false">Primavera</string>
+      <string name="wallpaper_title_dainocore_hopefulflower_alt" translatable="false">Sakura</string>
+      <string name="wallpaper_title_dainocore_fakeplants" translatable="false">Plastic nature</string>
+      <string name="wallpaper_title_dainocore_weddingflower_alt" translatable="false">The crown</string>
+      <string name="wallpaper_title_dainocore_coastview" translatable="false">Seashore</string>
+      <string name="wallpaper_title_dainocore_pebbles" translatable="false">P E B B L S</string>
+      <string name="wallpaper_title_dainocore_darkestmoment" translatable="false">Darkest moments</string>
+
+      <!-- CATEGORY: Community Wallpapers -->
+      <string name="wallpaper_title_dainocore_nohayfila" translatable="false">No queue</string>
+      <string name="wallpaper_title_dainocore_sillytexture" translatable="false">Hidden Waves</string>
+      <string name="wallpaper_title_dainocore_lumitonlore" translatable="false">Filmmaking</string>
+      <string name="wallpaper_title_dainocore_sandstarfield" translatable="false">sandstarfield</string>
+      <string name="wallpaper_title_dainocore_limelight" translatable="false">The universal dream</string>
+      <string name="wallpaper_title_dainocore_delfino" translatable="false">delfino.</string>
+      <string name="wallpaper_title_dainocore_abandono" translatable="false">Skywheel</string>
+      <string name="wallpaper_title_dainocore_ventanasalt" translatable="false">Ventanas al cielo</string>
+      <string name="wallpaper_title_dainocore_oldcam" translatable="false">Old camera</string>
+      <string name="wallpaper_title_dainocore_justawall" translatable="false">Urbano</string>
+      <string name="wallpaper_title_dainocore_argentinosaurus" translatable="false">Argentinosaurus</string>
+      <string name="wallpaper_title_dainocore_oronio" translatable="false">Virgilio</string>
+      <string name="wallpaper_title_dainocore_lostmedia" translatable="false">Lost media</string>
+      <string name="wallpaper_title_dainocore_noidea" translatable="false">out of ideas</string>
+      <string name="wallpaper_title_dainocore_pushingkeys" translatable="false">Pushing keys</string>
+
+      <!-- CATEGORY: Community Wallpapers -->
+      <string name="wallpaper_title_btlg_shishuog" translatable="false">Shishu Origins</string>
+      <string name="wallpaper_title_btlg_oronio" translatable="false">Neo Virgilio (from Oroño)</string>
+      <string name="dainocore_lostinthestrees" translatable="false">Lost Metric</string>
+      <string name="wallpaper_title_dainocore_vibrantwaves" translatable="false">Crystalline waves (evening)</string>
+      <string name="wallpaper_title_dainocore_sentuflowers" translatable="false">sent u flowers</string>
+      <string name="wallpaper_title_dainocore_oldmovies" translatable="false">Old movie posting</string>
+      <string name="wallpaper_title_dainocore_waiting4thebus" translatable="false">waiting 4 the bus</string>
+      <string name="wallpaper_title_dainocore_lostinpatagonia" translatable="false">Lost in Pastagonia</string>
+      <string name="wallpaper_title_dainocore_lumiton" translatable="false">More Lumiton</string>
+      <string name="wallpaper_title_dainocore_weddingflower" translatable="false">Corona de flores</string>
+      <string name="wallpaper_title_dainocore_nightdrive" translatable="false">Night Drive (blurred)</string>
+      <string name="wallpaper_title_dainocore_fastroute_alt" translatable="false">Hora pico (alt)</string>
+      <string name="wallpaper_title_dainocore_crustyrainbow" translatable="false">never going to edit photos like this again</string>
+      <string name="wallpaper_title_dainocore_coldflowers" translatable="false">flores frias</string>
+      <string name="wallpaper_title_dainocore_hopefulflower" translatable="false">Sakura (alt)</string>
+      <string name="wallpaper_title_dainocore_notaoemwallpaper" translatable="false">AI Generated OEM Default Wallpaper (not really)</string>
+      <string name="wallpaper_title_dainocore_nomorerecording" translatable="false">Not recording</string>
+      <string name="wallpaper_title_dainocore_zaratepostal" translatable="false">Zarateposting</string>
+      <string name="wallpaper_title_dainocore_greenlight" translatable="false">Morning green light</string>
+      <string name="wallpaper_title_dainocore_suckyflowers" translatable="false">sucky sad flowers</string>
+      <string name="wallpaper_title_dainocore_streetlight" translatable="false">semaforito</string>
+      <string name="wallpaper_title_dainocore_ventana" translatable="false">Just a window bro</string>
+      <string name="wallpaper_title_dainocore_realsunrise" translatable="false">sunrise</string>
+      <string name="wallpaper_title_dainocore_torreparque_alt" translatable="false">Torre Espacial (alt)</string>
+      <string name="wallpaper_title_btlg_tirimbino_amoled" translatable="false">AMOLED Tirimbino</string>
+
+      <!-- Authors -->
+      <string name="author_community_snowan" translatable="false">Snowan</string>
+      <string name="author_community_gabriel" translatable="false">gabriel</string>
+      <string name="author_community_saymon" translatable="false">s a y m o n</string>
+      <string name="author_community_mateo" translatable="false">MΔTЭO</string>
+      <string name="author_community_nero" translatable="false">𝙉𝙀𝙍𝙊</string>
+      <string name="author_community_nathanael" translatable="false">Nathanael</string>
+      <string name="author_community_assu" translatable="false">Assu</string>
+      <string name="author_community_melvin" translatable="false">Melvin</string>
+      <string name="author_community_henrique_a" translatable="false">h e n r i q u e</string>
+      <string name="author_community_fabian" translatable="false">fabian</string>
+      <string name="author_community_nisath" translatable="false">Nisath</string>
+      <string name="author_community_henrique_b" translatable="false">henrique</string>
+      <string name="author_community_limxdy" translatable="false">Limxdy</string>
+      <string name="author_misc_fxckingdeathwish" translatable="false">fxckingdeathwish</string>
+      <string name="author_community_cortezz" translatable="false">Cortezz</string>
+      <string name="author_main_eldainosor" translatable="false">ElDainosor</string>
+      <string name="author_community_duo_vh_saymon" translatable="false">vh, s a y m o n</string>
+      <string name="author_community_duo_google_eldainosor" translatable="false">Google, ElDainosor</string>
+
+      <!-- Author fallback and subtitles -->
       <string name="author_not_found">Unknown author</string>
+      <string name="author_main_simple">Author:</string>
+      <string name="author_main_multiple">Authors:</string>
 
 </resources>
