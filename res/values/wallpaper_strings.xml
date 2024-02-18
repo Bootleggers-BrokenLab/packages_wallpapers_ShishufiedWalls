@@ -58,7 +58,7 @@
       <string name="wallpaper_title_btlg_night_drive_sunset" translatable="false">Sunset before the night</string>
       <string name="wallpaper_title_btlg_evening_palmtrees" translatable="false">Evening sky</string>
 
-      <!-- CATEGORY: Community Wallpapers -->
+      <!-- CATEGORY: BTLG History Wallpapers -->
       <string name="wallpaper_title_btlg_proto" translatable="false">Bootleggers 0.5 Release Wallpaper</string>
       <string name="wallpaper_title_btlg_dawn" translatable="false">Dawn (1.0 Release Wallpaper)</string>
       <string name="wallpaper_title_btlg_wots" translatable="false">Waiting on the sunset (ElDainosor edit) (Bootleggers v2.2 Wallpaper)</string>
@@ -77,7 +77,7 @@
       <string name="wallpaper_title_btlg_holographic" translatable="false">Holographic (6.9 Release Wallpaper)</string>
       <string name="wallpaper_title_btlg_ourple" translatable="false">Purple like lean (7.0 Release Wallpaper)</string>
 
-      <!-- CATEGORY: Community Wallpapers -->
+      <!-- CATEGORY: Shishu Themes Wallpapers -->
       <string name="wallpaper_title_btlg_dreams" translatable="false">Shishu Dreams Theme</string>
       <string name="wallpaper_title_btlg_illusions" translatable="false">Shishu Illusions Theme</string>
       <string name="wallpaper_title_btlg_nights" translatable="false">Shishu Nights Theme</string>
@@ -87,7 +87,7 @@
       <string name="wallpaper_title_btlg_pacleggers" translatable="false">PACLeggers Aprils Fools</string>
       <string name="wallpaper_title_btlg_pissel" translatable="false">Pissel Theme</string>
 
-      <!-- CATEGORY: Community Wallpapers -->
+      <!-- CATEGORY: Dainocore urban Wallpapers -->
       <string name="wallpaper_title_dainocore_wakeybuild" translatable="false">The morning building</string>
       <string name="wallpaper_title_dainocore_heartwalk" translatable="false">Feelings Str.</string>
       <string name="wallpaper_title_dainocore_zarate" translatable="false">Zárate</string>
@@ -128,7 +128,7 @@
       <string name="wallpaper_title_dainocore_skatepark" translatable="false">Skatepark</string>
       <string name="wallpaper_title_dainocore_madryn" translatable="false">Puerto Madryn</string>
 
-      <!-- CATEGORY: Community Wallpapers -->
+      <!-- CATEGORY: Dainocore nature Wallpapers -->
       <string name="wallpaper_title_dainocore_reflectivesunrise" translatable="false">Reflective sunrise</string>
       <string name="wallpaper_title_dainocore_unreachablebridge" translatable="false">A little bridge</string>
       <string name="wallpaper_title_dainocore_penguins" translatable="false">Penguins</string>
@@ -154,7 +154,7 @@
       <string name="wallpaper_title_dainocore_pebbles" translatable="false">P E B B L S</string>
       <string name="wallpaper_title_dainocore_darkestmoment" translatable="false">Darkest moments</string>
 
-      <!-- CATEGORY: Community Wallpapers -->
+      <!-- CATEGORY: Dainocore POI Wallpapers -->
       <string name="wallpaper_title_dainocore_nohayfila" translatable="false">No queue</string>
       <string name="wallpaper_title_dainocore_sillytexture" translatable="false">Hidden Waves</string>
       <string name="wallpaper_title_dainocore_lumitonlore" translatable="false">Filmmaking</string>
@@ -171,7 +171,7 @@
       <string name="wallpaper_title_dainocore_noidea" translatable="false">out of ideas</string>
       <string name="wallpaper_title_dainocore_pushingkeys" translatable="false">Pushing keys</string>
 
-      <!-- CATEGORY: Community Wallpapers -->
+      <!-- CATEGORY: Dainocore Misc Wallpapers -->
       <string name="wallpaper_title_btlg_shishuog" translatable="false">Shishu Origins</string>
       <string name="wallpaper_title_btlg_oronio" translatable="false">Neo Virgilio (from Oroño)</string>
       <string name="dainocore_lostinthestrees" translatable="false">Lost Metric</string>
