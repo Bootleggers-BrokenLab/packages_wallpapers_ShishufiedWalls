@@ -247,6 +247,73 @@
 
      </category>
 
+     <category id="cat_btlg_gradients" title="@string/category_gradient_walls" featured="btlg_grad_presentation">
+
+        <static-wallpaper
+            id="btlg_grad_overexposure"
+            src="@drawable/btlg_gradient_overexposure"
+            title="@string/wallpaper_title_gradient_overexposure"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_mainteam" />
+
+        <static-wallpaper
+            id="btlg_grad_sunset"
+            src="@drawable/btlg_gradient_sunset"
+            title="@string/wallpaper_title_gradient_sunset"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_mainteam" />
+
+        <static-wallpaper
+            id="btlg_grad_breeze"
+            src="@drawable/btlg_gradient_breeze"
+            title="@string/wallpaper_title_gradient_breeze"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_mainteam" />
+
+        <static-wallpaper
+            id="btlg_grad_sakura"
+            src="@drawable/btlg_gradient_sakura"
+            title="@string/wallpaper_title_gradient_sakura"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_mainteam" />
+
+        <static-wallpaper
+            id="btlg_grad_labham"
+            src="@drawable/btlg_gradient_labham"
+            title="@string/wallpaper_title_gradient_labham"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_mainteam" />
+
+        <static-wallpaper
+            id="btlg_grad_velvet"
+            src="@drawable/btlg_gradient_velvet"
+            title="@string/wallpaper_title_gradient_velvet"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_mainteam" />
+
+        <static-wallpaper
+            id="btlg_grad_freshexperiment"
+            src="@drawable/btlg_gradient_freshexperiment"
+            title="@string/wallpaper_title_gradient_freshexperiment"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_mainteam" />
+
+        <static-wallpaper
+            id="btlg_grad_borealis"
+            src="@drawable/btlg_gradient_borealis"
+            title="@string/wallpaper_title_gradient_borealis"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_mainteam" />
+
+        <static-wallpaper
+            id="btlg_grad_presentation"
+            src="@drawable/btlg_gradient_presentation"
+            title="@string/wallpaper_title_gradient_presentation"
+            subtitle1="@string/author_main_simple"
+            subtitle2="@string/author_main_mainteam" />
+
+     </category>
+
      <category id="cat_btlg_releases" title="@string/category_releases_walls" featured="btlg_dawn">
 
         <static-wallpaper

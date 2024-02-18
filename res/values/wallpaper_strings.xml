@@ -16,6 +16,7 @@
       <string name="category_releases_walls">BTLG History</string>
       <string name="category_community_walls">Community Walls</string>
       <string name="category_shishufied_walls">Shishu Themes</string>
+      <string name="category_gradient_walls">Gradients</string>
       <string name="category_misc_walls">Misc</string>
       <string name="category_dainocore_urban_walls">Street Scapes</string>
       <string name="category_dainocore_nature_walls">A piece of nature</string>
@@ -198,6 +199,17 @@
       <string name="wallpaper_title_dainocore_torreparque_alt" translatable="false">Torre Espacial (alt)</string>
       <string name="wallpaper_title_btlg_tirimbino_amoled" translatable="false">AMOLED Tirimbino</string>
 
+      <!-- CATEGORY: Bootleggers Gradients Wallpapers -->
+      <string name="wallpaper_title_gradient_overexposure" translatable="false">Gradient Simple I</string>
+      <string name="wallpaper_title_gradient_sunset" translatable="false">Gradient Simple II</string>
+      <string name="wallpaper_title_gradient_breeze" translatable="false">Gradient Simple III</string>
+      <string name="wallpaper_title_gradient_sakura" translatable="false">Gradient Radar I</string>
+      <string name="wallpaper_title_gradient_labham" translatable="false">Gradient Radar II</string>
+      <string name="wallpaper_title_gradient_velvet" translatable="false">Gradient Radar III</string>
+      <string name="wallpaper_title_gradient_freshexperiment" translatable="false">Gradient Freeze I</string>
+      <string name="wallpaper_title_gradient_borealis" translatable="false">Gradient Freeze II</string>
+      <string name="wallpaper_title_gradient_presentation" translatable="false">Gradient Freeze III</string>
+
       <!-- Authors -->
       <string name="author_community_snowan" translatable="false">Snowan</string>
       <string name="author_community_gabriel" translatable="false">gabriel</string>
@@ -217,6 +229,7 @@
       <string name="author_main_eldainosor" translatable="false">ElDainosor</string>
       <string name="author_community_duo_vh_saymon" translatable="false">vh, s a y m o n</string>
       <string name="author_community_duo_google_eldainosor" translatable="false">Google, ElDainosor</string>
+      <string name="author_main_mainteam" translatable="false">Bootleggers Team</string>
 
       <!-- Author fallback and subtitles -->
       <string name="author_not_found">Unknown author</string>
